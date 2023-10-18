@@ -12,3 +12,4 @@ fn main() {
     if n == 1 { println!("Yes"); }
     else { println!("No");}
 }
+// 割った際のあまりなくちょうど割り切れたらnは１になる
